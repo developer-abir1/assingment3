@@ -58,7 +58,7 @@ var getHotelCost = hotelCost(21);
 
 
 function megaFriend(friendsName) {
-    var longestName = '';
+    var longestName = "";
     for (var i = 0; i < friendsName.length; i++) {
         if (longestName.length < friendsName[i].length) {
             longestName = friendsName[i];
@@ -69,7 +69,7 @@ function megaFriend(friendsName) {
 
 // Friends Name
 var getMegaFriend = megaFriend([
-    'Monir Hossain',
-    'Aisah Bint Monir',
-    'Monira Akter',
+    "mahadi hssen Abir khan",
+    "mofazzal hosssen",
+    "alo hassen",
 ]);
