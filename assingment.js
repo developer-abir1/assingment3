@@ -71,5 +71,5 @@ function megaFriend(friendsName) {
 var getMegaFriend = megaFriend([
     "mahadi hssen Abir khan",
     "mofazzal hosssen",
-    "alo hassen",
+    "azad hassen",
 ]);
